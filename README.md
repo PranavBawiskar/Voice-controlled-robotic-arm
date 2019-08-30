@@ -1,0 +1,2 @@
+# Voice-controlled-robotic-arm
+Braboi Robotic Arm controlled using voice recognition. Fully functional and perfectly synchronised execution using the Speech recognition programming in Python. We programmed the PLC for braboi and established communication between arm and the end-user-system using PyModbus Communication. The chatbot named Nancy would ask the user for a voice sample, it would process it and following the next command, the robot would execute the motion.
